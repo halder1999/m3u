@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:0 CUID="1" tvg-name="BEIN  Boomerang HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinboomerang.png" group-title="Sport",BEIN  Boomerang HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9722
+#EXTINF:0 CUID="2" tvg-name="BeIN 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/bein.png" group-title="Sport",BeIN 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/33908
+#EXTINF:0 CUID="3" tvg-name="Bein AFC 1" tvg-id="(no tvg-id)" group-title="Sport",Bein AFC 1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/18979
+#EXTINF:0 CUID="4" tvg-name="Bein AFC 2" tvg-id="(no tvg-id)" group-title="Sport",Bein AFC 2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/31579
+#EXTINF:0 CUID="5" tvg-name="Bein AFC 3" tvg-id="(no tvg-id)" group-title="Sport",Bein AFC 3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/30253
+#EXTINF:0 CUID="6" tvg-name="Bein AFC 4" tvg-id="(no tvg-id)" group-title="Sport",Bein AFC 4
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/31580
+#EXTINF:0 CUID="7" tvg-name="BEIN BARAEM" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinbaraem.png" group-title="Sport",BEIN BARAEM
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9719
+#EXTINF:0 CUID="8" tvg-name="BEIN BBC EARTH" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinbbcearth.png" group-title="Sport",BEIN BBC EARTH
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9718
+#EXTINF:0 CUID="9" tvg-name="BEIN CARTOON NETWORK" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beincartoonnetwork.png" group-title="Sport",BEIN CARTOON NETWORK
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9735
+#EXTINF:0 CUID="10" tvg-name="beIN DRAMA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beindrama.png" group-title="Sport",beIN DRAMA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9717
+#EXTINF:0 CUID="11" tvg-name="BEIN FATAFEAT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinfatafeat.png" group-title="Sport",BEIN FATAFEAT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9736
+#EXTINF:0 CUID="12" tvg-name="BEIN FOX MOVIES" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinfoxmovies.png" group-title="Sport",BEIN FOX MOVIES
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9729
+#EXTINF:0 CUID="13" tvg-name="BEIN FOX MOVIES ACTION" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/foxmoviesaction.png" group-title="Sport",BEIN FOX MOVIES ACTION
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9728
+#EXTINF:0 CUID="14" tvg-name="BEIN GOURMET" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beingourmet.png" group-title="Sport",BEIN GOURMET
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9720
+#EXTINF:0 CUID="15" tvg-name="BEIN HG TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinhgtv.png" group-title="Sport",BEIN HG TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9732
+#EXTINF:0 CUID="16" tvg-name="BEIN JEEM" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinjeem.png" group-title="Sport",BEIN JEEM
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/8290
+#EXTINF:0 CUID="17" tvg-name="beIN MAX 1 FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinmax1.png" group-title="Sport",beIN MAX 1 FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70226
+#EXTINF:0 CUID="18" tvg-name="beIN MAX 2 FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinmax2.png" group-title="Sport",beIN MAX 2 FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70227
+#EXTINF:0 CUID="19" tvg-name="BEIN MOVIES 1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinmovies1.png" group-title="Sport",BEIN MOVIES 1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9711
+#EXTINF:0 CUID="20" tvg-name="BEIN MOVIES 2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinmovies2.png" group-title="Sport",BEIN MOVIES 2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9712
+#EXTINF:0 CUID="21" tvg-name="BEIN MOVIES 3" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinmovies3.png" group-title="Sport",BEIN MOVIES 3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9713
+#EXTINF:0 CUID="22" tvg-name="BEIN MOVIES 4" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinmovies4.png" group-title="Sport",BEIN MOVIES 4
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9714
+#EXTINF:0 CUID="23" tvg-name="BEIN out door" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinoutdoorchannel.png" group-title="Sport",BEIN out door
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9724
+#EXTINF:0 CUID="24" tvg-name="BEIN SERIES 1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinseries1.png" group-title="Sport",BEIN SERIES 1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9715
+#EXTINF:0 CUID="25" tvg-name="BEIN SERIES 2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinseries2.png" group-title="Sport",BEIN SERIES 2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9716
+#EXTINF:0 CUID="26" tvg-name="beIN SPORT 1 EN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport11en.png" group-title="Sport",beIN SPORT 1 EN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9789
+#EXTINF:0 CUID="27" tvg-name="beIN SPORT 2 EN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="Sport",beIN SPORT 2 EN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9790
+#EXTINF:0 CUID="28" tvg-name="beIN SPORT FR HD1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportshd1.png" group-title="Sport",beIN SPORT FR HD1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9786
+#EXTINF:0 CUID="29" tvg-name="beIN SPORT FR HD2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportshd2.png" group-title="Sport",beIN SPORT FR HD2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9787
+#EXTINF:0 CUID="30" tvg-name="beIN SPORT FR HD3" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportshd3.png" group-title="Sport",beIN SPORT FR HD3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9788
+#EXTINF:0 CUID="31" tvg-name="BeIN SPORT NEWS" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportnews.png" group-title="Sport",BeIN SPORT NEWS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/20416
+#EXTINF:0 CUID="32" tvg-name="BEIN SPORT1 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="Sport",BEIN SPORT1 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65630
+#EXTINF:0 CUID="33" tvg-name="BEIN SPORT2 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="Sport",BEIN SPORT2 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65631
+#EXTINF:0 CUID="34" tvg-name="BEIN SPORT3 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="Sport",BEIN SPORT3 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65632
+#EXTINF:0 CUID="35" tvg-name="BEIN SPORT4 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport4.png" group-title="Sport",BEIN SPORT4 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65633
+#EXTINF:0 CUID="36" tvg-name="BEIN SPORT5 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport5.png" group-title="Sport",BEIN SPORT5 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65634
+#EXTINF:0 CUID="37" tvg-name="BEIN SPORT6 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport.png" group-title="Sport",BEIN SPORT6 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65635
+#EXTINF:0 CUID="38" tvg-name="BEIN SPORT7 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport7.png" group-title="Sport",BEIN SPORT7 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65636
+#EXTINF:0 CUID="39" tvg-name="BEIN SPORT8 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport8.png" group-title="Sport",BEIN SPORT8 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65637
+#EXTINF:0 CUID="40" tvg-name="BEIN SPORT9 4K" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport9.png" group-title="Sport",BEIN SPORT9 4K
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/65638
+#EXTINF:0 CUID="41" tvg-name="BeIN SPORTS" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsports.png" group-title="Sport",BeIN SPORTS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/45473
+#EXTINF:0 CUID="42" tvg-name="beIN TRAVEL HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beintravel.png" group-title="Sport",beIN TRAVEL HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9739
+#EXTINF:0 CUID="43" tvg-name="BeIN XTRA 1 HD" tvg-id="(no tvg-id)" group-title="Sport",BeIN XTRA 1 HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46945
+#EXTINF:0 CUID="44" tvg-name="BeIN XTRA 2 HD" tvg-id="(no tvg-id)" group-title="Sport",BeIN XTRA 2 HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46946
+#EXTINF:0 CUID="45" tvg-name="BeIN XTRA 3 HD" tvg-id="(no tvg-id)" group-title="Sport",BeIN XTRA 3 HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46938
+#EXTINF:0 CUID="46" tvg-name="BeIN XTRA 4 HD" tvg-id="(no tvg-id)" group-title="Sport",BeIN XTRA 4 HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46939
+#EXTINF:0 CUID="47" tvg-name="BeIN XTRA 5 HD" tvg-id="(no tvg-id)" group-title="Sport",BeIN XTRA 5 HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46940
+#EXTINF:0 CUID="48" tvg-name="BeIN XTRA 6 HD" tvg-id="(no tvg-id)" group-title="Sport",BeIN XTRA 6 HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46941
+#EXTINF:0 CUID="49" tvg-name="FR-Bein Sport Max10" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax10.png" group-title="Sport",FR-Bein Sport Max10
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/548
+#EXTINF:0 CUID="50" tvg-name="FR-Bein Sport Max4" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax4.png" group-title="Sport",FR-Bein Sport Max4
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/542
+#EXTINF:0 CUID="51" tvg-name="FR-Bein Sport Max5" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax5.png" group-title="Sport",FR-Bein Sport Max5
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/543
+#EXTINF:0 CUID="52" tvg-name="FR-Bein Sport Max6" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax6.png" group-title="Sport",FR-Bein Sport Max6
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/544
+#EXTINF:0 CUID="53" tvg-name="FR-Bein Sport Max7" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax7.png" group-title="Sport",FR-Bein Sport Max7
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/545
+#EXTINF:0 CUID="54" tvg-name="FR-Bein Sport Max8" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax8.png" group-title="Sport",FR-Bein Sport Max8
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/546
+#EXTINF:0 CUID="55" tvg-name="FR-Bein Sport Max9" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsportmax9.png" group-title="Sport",FR-Bein Sport Max9
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/547
+#EXTINF:0 CUID="56" tvg-name="FR-BEINSPORT 1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="Sport",FR-BEINSPORT 1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/539
+#EXTINF:0 CUID="57" tvg-name="FR-BEINSPORT 2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="Sport",FR-BEINSPORT 2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/540
+#EXTINF:0 CUID="58" tvg-name="FR-BEINSPORT 3" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="Sport",FR-BEINSPORT 3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/541
+#EXTINF:0 CUID="59" tvg-name="FR-RMC SPORT HD1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/549
+#EXTINF:0 CUID="60" tvg-name="FR-RMC SPORT HD2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/550
+#EXTINF:0 CUID="61" tvg-name="FR-RMC SPORT HD3" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/551
+#EXTINF:0 CUID="62" tvg-name="FR-RMC SPORT HD4" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD4
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/552
+#EXTINF:0 CUID="63" tvg-name="FR-RMC SPORT HD5" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD5
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/553
+#EXTINF:0 CUID="64" tvg-name="FR-RMC SPORT HD6" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD6
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/554
+#EXTINF:0 CUID="65" tvg-name="FR-RMC SPORT HD7" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD7
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/555
+#EXTINF:0 CUID="66" tvg-name="FR-RMC SPORT HD8" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rmcsport.png" group-title="Sport",FR-RMC SPORT HD8
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/556
+#EXTINF:0 CUID="67" tvg-name="4 KURD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",4 KURD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32710
+#EXTINF:0 CUID="68" tvg-name="AFRIN KIDS" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/pinkids.png" group-title="Kurdish Channels",AFRIN KIDS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1367
+#EXTINF:0 CUID="69" tvg-name="AFRIN باخچە" tvg-id="(no tvg-id)" group-title="Kurdish Channels",AFRIN باخچە
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34428
+#EXTINF:0 CUID="70" tvg-name="ALA TV FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/7alatv.png" group-title="Kurdish Channels",ALA TV FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46224
+#EXTINF:0 CUID="71" tvg-name="AMOZHGARY ۞" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/amozhgarytv.png" group-title="Kurdish Channels",AMOZHGARY ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32783
+#EXTINF:0 CUID="72" tvg-name="ANIMAL BOX" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/animal.png" group-title="Kurdish Channels",ANIMAL BOX
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32560
+#EXTINF:0 CUID="73" tvg-name="ARO FAMILY" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/family.png" group-title="Kurdish Channels",ARO FAMILY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9805
+#EXTINF:0 CUID="74" tvg-name="ARYAN TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/paryawarantv.png" group-title="Kurdish Channels",ARYAN TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32739
+#EXTINF:0 CUID="75" tvg-name="ASHTI" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ASHTI
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34423
+#EXTINF:0 CUID="76" tvg-name="ASMAN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/asman.png" group-title="Kurdish Channels",ASMAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1403
+#EXTINF:0 CUID="77" tvg-name="ASTERA CULTURE" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ASTERA CULTURE
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1620
+#EXTINF:0 CUID="78" tvg-name="ASTERA DOCU." tvg-id="(no tvg-id)" group-title="Kurdish Channels",ASTERA DOCU.
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1622
+#EXTINF:0 CUID="79" tvg-name="ASTERA FAMILY" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ASTERA FAMILY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1625
+#EXTINF:0 CUID="80" tvg-name="ASTERA MOVIES" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ASTERA MOVIES
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70832
+#EXTINF:0 CUID="81" tvg-name="ASTERA SHOWS" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ASTERA SHOWS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70833
+#EXTINF:0 CUID="82" tvg-name="AVA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/ava.png" group-title="Kurdish Channels",AVA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/52630
+#EXTINF:0 CUID="83" tvg-name="AVA ENTERTAINMENT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/avaentertainment.png" group-title="Kurdish Channels",AVA ENTERTAINMENT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1434
+#EXTINF:0 CUID="84" tvg-name="AVA TV FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/avatv.png" group-title="Kurdish Channels",AVA TV FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28775
+#EXTINF:0 CUID="85" tvg-name="AVA TV SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/avatv.png" group-title="Kurdish Channels",AVA TV SD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/68503
+#EXTINF:0 CUID="86" tvg-name="AVAR TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/tvart.png" group-title="Kurdish Channels",AVAR TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35820
+#EXTINF:0 CUID="87" tvg-name="AZADI" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/azaditv.png" group-title="Kurdish Channels",AZADI
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32781
+#EXTINF:0 CUID="88" tvg-name="BABOLY" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BABOLY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9778
+#EXTINF:0 CUID="89" tvg-name="BAHA ENTERTAINMENT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/entertainment.png" group-title="Kurdish Channels",BAHA ENTERTAINMENT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28823
+#EXTINF:0 CUID="90" tvg-name="BANGAWAZ ۞" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/bangawaztv.png" group-title="Kurdish Channels",BANGAWAZ ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32775
+#EXTINF:0 CUID="91" tvg-name="BARIN ACTION" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/tringaction.png" group-title="Kurdish Channels",BARIN ACTION
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1426
+#EXTINF:0 CUID="92" tvg-name="BARIN FAMILY" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/tringfamily.png" group-title="Kurdish Channels",BARIN FAMILY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35812
+#EXTINF:0 CUID="93" tvg-name="BARIN MOVIES" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/onmovies.png" group-title="Kurdish Channels",BARIN MOVIES
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32525
+#EXTINF:0 CUID="94" tvg-name="BARIN QURAN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/bahrainquran.png" group-title="Kurdish Channels",BARIN QURAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/51704
+#EXTINF:0 CUID="95" tvg-name="BASK" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BASK
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46226
+#EXTINF:0 CUID="96" tvg-name="BAZ DOCUMENTARY" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/documentary.png" group-title="Kurdish Channels",BAZ DOCUMENTARY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32523
+#EXTINF:0 CUID="97" tvg-name="BINAR HD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BINAR HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9798
+#EXTINF:0 CUID="98" tvg-name="BNAR ACTION DRAMA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BNAR ACTION DRAMA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32708
+#EXTINF:0 CUID="99" tvg-name="BNAR HD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BNAR HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35814
+#EXTINF:0 CUID="100" tvg-name="BNAR MOVIE" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/starmovie.png" group-title="Kurdish Channels",BNAR MOVIE
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35813
+#EXTINF:0 CUID="101" tvg-name="BNAR QURAN ۞" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BNAR QURAN ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32559
+#EXTINF:0 CUID="102" tvg-name="BNAR QURAN ۞" tvg-id="(no tvg-id)" group-title="Kurdish Channels",BNAR QURAN ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35815
+#EXTINF:0 CUID="103" tvg-name="CHANNEL 8" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/channel8.png" group-title="Kurdish Channels",CHANNEL 8
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/57115
+#EXTINF:0 CUID="104" tvg-name="CHANNEL 8 SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/channel8.png" group-title="Kurdish Channels",CHANNEL 8 SD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:0 CUID="105" tvg-name="CHIAN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",CHIAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32884
+#EXTINF:0 CUID="106" tvg-name="CHIAN TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/chihantv.png" group-title="Kurdish Channels",CHIAN TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35134
+#EXTINF:0 CUID="107" tvg-name="CIRA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/ciratv.png" group-title="Kurdish Channels",CIRA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46234
+#EXTINF:0 CUID="108" tvg-name="DASANYA KID" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DASANYA KID
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9796
+#EXTINF:0 CUID="109" tvg-name="DASANYA SPORT" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DASANYA SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/41708
+#EXTINF:0 CUID="110" tvg-name="DASANYA TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DASANYA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46233
+#EXTINF:0 CUID="111" tvg-name="DEKAN QURAN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DEKAN QURAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/33249
+#EXTINF:0 CUID="112" tvg-name="DELAL TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/helaltv.png" group-title="Kurdish Channels",DELAL TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28837
+#EXTINF:0 CUID="113" tvg-name="Derin TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",Derin TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34434
+#EXTINF:0 CUID="114" tvg-name="DERWAZA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DERWAZA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/55239
+#EXTINF:0 CUID="115" tvg-name="DERWAZA MUSIC" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DERWAZA MUSIC
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/55237
+#EXTINF:0 CUID="116" tvg-name="DIMEN HD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",DIMEN HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9800
+#EXTINF:0 CUID="117" tvg-name="DUNYA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/dunyatv.png" group-title="Kurdish Channels",DUNYA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9804
+#EXTINF:0 CUID="118" tvg-name="EFECT TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/effecttv.png" group-title="Kurdish Channels",EFECT TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34429
+#EXTINF:0 CUID="119" tvg-name="EMAN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",EMAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34433
+#EXTINF:0 CUID="120" tvg-name="ESRA QURAN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ESRA QURAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44802
+#EXTINF:0 CUID="121" tvg-name="ESRA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/pesrayatv.png" group-title="Kurdish Channels",ESRA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44801
+#EXTINF:0 CUID="122" tvg-name="ESRA TV HD2" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ESRA TV HD2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/62893
+#EXTINF:0 CUID="123" tvg-name="ESTA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/statv.png" group-title="Kurdish Channels",ESTA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/45478
+#EXTINF:0 CUID="124" tvg-name="EURO KURD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",EURO KURD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34424
+#EXTINF:0 CUID="125" tvg-name="FARMUDA ۞" tvg-id="(no tvg-id)" group-title="Kurdish Channels",FARMUDA ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34420
+#EXTINF:0 CUID="126" tvg-name="FIRST KIDS منداڵان" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/stkids.png" group-title="Kurdish Channels",FIRST KIDS منداڵان
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32741
+#EXTINF:0 CUID="127" tvg-name="FOX HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="Kurdish Channels",FOX HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28777
+#EXTINF:0 CUID="128" tvg-name="GALI KURDISTAN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/galikurdistan.png" group-title="Kurdish Channels",GALI KURDISTAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1371
+#EXTINF:0 CUID="129" tvg-name="GARYAN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",GARYAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46229
+#EXTINF:0 CUID="130" tvg-name="GEWHER  KIDS TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",GEWHER  KIDS TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28836
+#EXTINF:0 CUID="131" tvg-name="GEWHER TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",GEWHER TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46225
+#EXTINF:0 CUID="132" tvg-name="HALABJA  TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/halabatv.png" group-title="Kurdish Channels",HALABJA  TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32773
+#EXTINF:0 CUID="133" tvg-name="HORMIZAIR" tvg-id="(no tvg-id)" group-title="Kurdish Channels",HORMIZAIR
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46228
+#EXTINF:0 CUID="134" tvg-name="IMK  HD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",IMK  HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/40316
+#EXTINF:0 CUID="135" tvg-name="IMK QURAN ۞" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/quran.png" group-title="Kurdish Channels",IMK QURAN ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32617
+#EXTINF:0 CUID="136" tvg-name="IRIB KURDISTAN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdistaniraq.png" group-title="Kurdish Channels",IRIB KURDISTAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/51724
+#EXTINF:0 CUID="137" tvg-name="ISHTAR TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/ishtartv.png" group-title="Kurdish Channels",ISHTAR TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/40489
+#EXTINF:0 CUID="138" tvg-name="JAMAWAR" tvg-id="(no tvg-id)" group-title="Kurdish Channels",JAMAWAR
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/33027
+#EXTINF:0 CUID="139" tvg-name="JOJO MAMA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",JOJO MAMA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1424
+#EXTINF:0 CUID="140" tvg-name="JUDY" tvg-id="(no tvg-id)" group-title="Kurdish Channels",JUDY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32887
+#EXTINF:0 CUID="141" tvg-name="K24" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/k24.png" group-title="Kurdish Channels",K24
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1372
+#EXTINF:0 CUID="142" tvg-name="K24 DOC." tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/24doc.png" group-title="Kurdish Channels",K24 DOC.
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34769
+#EXTINF:0 CUID="143" tvg-name="K24 DOC. FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/24doc.png" group-title="Kurdish Channels",K24 DOC. FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28817
+#EXTINF:0 CUID="144" tvg-name="K24 HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/k24.png" group-title="Kurdish Channels",K24 HD
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:0 CUID="145" tvg-name="KALAPUR" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KALAPUR
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32784
+#EXTINF:0 CUID="146" tvg-name="KANAL 21" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kanal21.png" group-title="Kurdish Channels",KANAL 21
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44815
+#EXTINF:0 CUID="147" tvg-name="KHAK" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KHAK
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/40307
+#EXTINF:0 CUID="148" tvg-name="KIDCO KIDS" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KIDCO KIDS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32740
+#EXTINF:0 CUID="149" tvg-name="KIRKUK TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kirkuktv.png" group-title="Kurdish Channels",KIRKUK TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32711
+#EXTINF:0 CUID="150" tvg-name="KOMAL HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/komalatv.png" group-title="Kurdish Channels",KOMAL HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1398
+#EXTINF:0 CUID="151" tvg-name="KOMAL RANYA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KOMAL RANYA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/40312
+#EXTINF:0 CUID="152" tvg-name="KOMALA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/komalatv.png" group-title="Kurdish Channels",KOMALA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/51691
+#EXTINF:0 CUID="153" tvg-name="KURD CHANNEL" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdchannel.png" group-title="Kurdish Channels",KURD CHANNEL
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32565
+#EXTINF:0 CUID="154" tvg-name="KURD MOVIE HD1" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KURD MOVIE HD1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32772
+#EXTINF:0 CUID="155" tvg-name="KURD7" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KURD7
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44799
+#EXTINF:0 CUID="156" tvg-name="KURDANA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KURDANA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/43335
+#EXTINF:0 CUID="157" tvg-name="KURDC" tvg-id="(no tvg-id)" group-title="Kurdish Channels",KURDC
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/41710
+#EXTINF:0 CUID="158" tvg-name="KURDCINEMA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdcinema.png" group-title="Kurdish Channels",KURDCINEMA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28822
+#EXTINF:0 CUID="159" tvg-name="Kurdish TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/drdishtv.png" group-title="Kurdish Channels",Kurdish TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34771
+#EXTINF:0 CUID="160" tvg-name="KURDISTAN TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdistantv.png" group-title="Kurdish Channels",KURDISTAN TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1369
+#EXTINF:0 CUID="161" tvg-name="KURDISTAN TV HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdistantv.png" group-title="Kurdish Channels",KURDISTAN TV HD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0 CUID="162" tvg-name="KURDMAX" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmax.png" group-title="Kurdish Channels",KURDMAX
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/68474
+#EXTINF:0 CUID="163" tvg-name="KURDMAX FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmax.png" group-title="Kurdish Channels",KURDMAX FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/52509
+#EXTINF:0 CUID="164" tvg-name="KURDMAX HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmax.png" group-title="Kurdish Channels",KURDMAX HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1435
+#EXTINF:0 CUID="165" tvg-name="KURDMAX MUSIC" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmaxmusic.png" group-title="Kurdish Channels",KURDMAX MUSIC
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34772
+#EXTINF:0 CUID="166" tvg-name="KURDMAX PEPULE" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmaxpepule.png" group-title="Kurdish Channels",KURDMAX PEPULE
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9780
+#EXTINF:0 CUID="167" tvg-name="KURDMAX SHOW" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmaxshow.png" group-title="Kurdish Channels",KURDMAX SHOW
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28824
+#EXTINF:0 CUID="168" tvg-name="KURDMAX SHOW کرمانجی" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmaxshow.png" group-title="Kurdish Channels",KURDMAX SHOW کرمانجی
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/58174
+#EXTINF:0 CUID="169" tvg-name="KURDMAX کرمانجی" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdmax.png" group-title="Kurdish Channels",KURDMAX کرمانجی
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/58173
+#EXTINF:0 CUID="170" tvg-name="KURDSAT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdsat.png" group-title="Kurdish Channels",KURDSAT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1370
+#EXTINF:0 CUID="171" tvg-name="KURDSAT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdsat.png" group-title="Kurdish Channels",KURDSAT
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:0 CUID="172" tvg-name="KURDSAT FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdsat.png" group-title="Kurdish Channels",KURDSAT FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32914
+#EXTINF:0 CUID="173" tvg-name="KURDSAT NEWS" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdsatnews.png" group-title="Kurdish Channels",KURDSAT NEWS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32693
+#EXTINF:0 CUID="174" tvg-name="KURDSAT NEWS SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/kurdsatnews.png" group-title="Kurdish Channels",KURDSAT NEWS SD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:0 CUID="175" tvg-name="LD AZHIN TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",LD AZHIN TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/50995
+#EXTINF:0 CUID="176" tvg-name="LD LIFE" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/dlife.png" group-title="Kurdish Channels",LD LIFE
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/55272
+#EXTINF:0 CUID="177" tvg-name="LD NUNJUN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",LD NUNJUN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32707
+#EXTINF:0 CUID="178" tvg-name="LD PSHDAR" tvg-id="(no tvg-id)" group-title="Kurdish Channels",LD PSHDAR
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32777
+#EXTINF:0 CUID="179" tvg-name="MIHRAB RADIO" tvg-id="(no tvg-id)" group-title="Kurdish Channels",MIHRAB RADIO
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/51769
+#EXTINF:0 CUID="180" tvg-name="MIHRAB TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",MIHRAB TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44798
+#EXTINF:0 CUID="181" tvg-name="Minara TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/minara.png" group-title="Kurdish Channels",Minara TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34770
+#EXTINF:0 CUID="182" tvg-name="MIX KURD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",MIX KURD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44794
+#EXTINF:0 CUID="183" tvg-name="MMN ACTION" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/action.png" group-title="Kurdish Channels",MMN ACTION
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32516
+#EXTINF:0 CUID="184" tvg-name="NAQSHI MEDIA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NAQSHI MEDIA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/62867
+#EXTINF:0 CUID="185" tvg-name="NEW LINE 1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/newline.png" group-title="Kurdish Channels",NEW LINE 1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1617
+#EXTINF:0 CUID="186" tvg-name="NEW LINE 2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/newline.png" group-title="Kurdish Channels",NEW LINE 2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1618
+#EXTINF:0 CUID="187" tvg-name="NEWLINE BOLLYWOOD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NEWLINE BOLLYWOOD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1430
+#EXTINF:0 CUID="188" tvg-name="NEWLINE DRAMA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/newline.png" group-title="Kurdish Channels",NEWLINE DRAMA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34426
+#EXTINF:0 CUID="189" tvg-name="NEWLINE MOVIE" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/newline.png" group-title="Kurdish Channels",NEWLINE MOVIE
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28819
+#EXTINF:0 CUID="190" tvg-name="NEWLINEKID" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/newline.png" group-title="Kurdish Channels",NEWLINEKID
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70835
+#EXTINF:0 CUID="191" tvg-name="NEXT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/next.png" group-title="Kurdish Channels",NEXT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32563
+#EXTINF:0 CUID="192" tvg-name="NIGA FAMILY" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/cafamily.png" group-title="Kurdish Channels",NIGA FAMILY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1629
+#EXTINF:0 CUID="193" tvg-name="NIGA KIDS" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NIGA KIDS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1628
+#EXTINF:0 CUID="194" tvg-name="NIGA MOVIE" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NIGA MOVIE
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1627
+#EXTINF:0 CUID="195" tvg-name="NIROJ QURAN ۞" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NIROJ QURAN ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44813
+#EXTINF:0 CUID="196" tvg-name="NIROJ TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NIROJ TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46232
+#EXTINF:0 CUID="197" tvg-name="NISHTIMANIMN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/mishtimanymn.png" group-title="Kurdish Channels",NISHTIMANIMN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70834
+#EXTINF:0 CUID="198" tvg-name="NOHADRA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",NOHADRA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9794
+#EXTINF:0 CUID="199" tvg-name="NOOR" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/noortv.png" group-title="Kurdish Channels",NOOR
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28829
+#EXTINF:0 CUID="200" tvg-name="NRT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/nrt.png" group-title="Kurdish Channels",NRT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/52792
+#EXTINF:0 CUID="201" tvg-name="NRT 2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/nrt2.png" group-title="Kurdish Channels",NRT 2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28825
+#EXTINF:0 CUID="202" tvg-name="NRT 3" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/nrt.png" group-title="Kurdish Channels",NRT 3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1616
+#EXTINF:0 CUID="203" tvg-name="NRT 4" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/nrt4.png" group-title="Kurdish Channels",NRT 4
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32692
+#EXTINF:0 CUID="204" tvg-name="NRT HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/nrt.png" group-title="Kurdish Channels",NRT HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/63130
+#EXTINF:0 CUID="205" tvg-name="NRT SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/nrt.png" group-title="Kurdish Channels",NRT SD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/68505
+#EXTINF:0 CUID="206" tvg-name="Nuber TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",Nuber TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34794
+#EXTINF:0 CUID="207" tvg-name="ONE WORLD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/world.png" group-title="Kurdish Channels",ONE WORLD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/55238
+#EXTINF:0 CUID="208" tvg-name="PARWARDA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/parwardayitv.png" group-title="Kurdish Channels",PARWARDA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28832
+#EXTINF:0 CUID="209" tvg-name="PARWARDAI HAWLER" tvg-id="(no tvg-id)" group-title="Kurdish Channels",PARWARDAI HAWLER
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46339
+#EXTINF:0 CUID="210" tvg-name="PAYAM" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/payamtv.png" group-title="Kurdish Channels",PAYAM
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1646
+#EXTINF:0 CUID="211" tvg-name="PESHMARGA TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",PESHMARGA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34425
+#EXTINF:0 CUID="212" tvg-name="QALAM AEENI ۞" tvg-id="(no tvg-id)" group-title="Kurdish Channels",QALAM AEENI ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32520
+#EXTINF:0 CUID="213" tvg-name="QALAM DOCUMENTARY" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/documentary.png" group-title="Kurdish Channels",QALAM DOCUMENTARY
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32521
+#EXTINF:0 CUID="214" tvg-name="QALAM SPORT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/amsports.png" group-title="Kurdish Channels",QALAM SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32522
+#EXTINF:0 CUID="215" tvg-name="QALAM TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/salamtv.png" group-title="Kurdish Channels",QALAM TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32524
+#EXTINF:0 CUID="216" tvg-name="QALAT HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/qala.png" group-title="Kurdish Channels",QALAT HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28839
+#EXTINF:0 CUID="217" tvg-name="RANYA CITY HD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",RANYA CITY HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35824
+#EXTINF:0 CUID="218" tvg-name="RANYA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/atvalanya.png" group-title="Kurdish Channels",RANYA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28842
+#EXTINF:0 CUID="219" tvg-name="RASAN HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rasantv.png" group-title="Kurdish Channels",RASAN HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35298
+#EXTINF:0 CUID="220" tvg-name="RED TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/redtv.png" group-title="Kurdish Channels",RED TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/48434
+#EXTINF:0 CUID="221" tvg-name="RENG DOCUMENTARY HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/documentary.png" group-title="Kurdish Channels",RENG DOCUMENTARY HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70839
+#EXTINF:0 CUID="222" tvg-name="RENG HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/reng.png" group-title="Kurdish Channels",RENG HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9801
+#EXTINF:0 CUID="223" tvg-name="RENG KIDS" tvg-id="(no tvg-id)" group-title="Kurdish Channels",RENG KIDS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/45477
+#EXTINF:0 CUID="224" tvg-name="REVEND" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/revenge.png" group-title="Kurdish Channels",REVEND
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46227
+#EXTINF:0 CUID="225" tvg-name="ROJHELAT ڕۆژهەڵات" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ROJHELAT ڕۆژهەڵات
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/62866
+#EXTINF:0 CUID="226" tvg-name="ROZH" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ROZH
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/55232
+#EXTINF:0 CUID="227" tvg-name="RUDAW" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rudaw.png" group-title="Kurdish Channels",RUDAW
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/63288
+#EXTINF:0 CUID="228" tvg-name="RUDAW sd" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rudaw.png" group-title="Kurdish Channels",RUDAW sd
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/56010
+#EXTINF:0 CUID="229" tvg-name="RUDAW SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/rudaw.png" group-title="Kurdish Channels",RUDAW SD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0 CUID="230" tvg-name="SADA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/sadafm.png" group-title="Kurdish Channels",SADA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28831
+#EXTINF:0 CUID="231" tvg-name="SAHAR TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/bahartv.png" group-title="Kurdish Channels",SAHAR TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1437
+#EXTINF:0 CUID="232" tvg-name="SHAISTA" tvg-id="(no tvg-id)" group-title="Kurdish Channels",SHAISTA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34422
+#EXTINF:0 CUID="233" tvg-name="SHAR TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/artv.png" group-title="Kurdish Channels",SHAR TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34432
+#EXTINF:0 CUID="234" tvg-name="SHNA HD" tvg-id="(no tvg-id)" group-title="Kurdish Channels",SHNA HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/40315
+#EXTINF:0 CUID="235" tvg-name="SHNA QURAN" tvg-id="(no tvg-id)" group-title="Kurdish Channels",SHNA QURAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/55254
+#EXTINF:0 CUID="236" tvg-name="Slemany RT" tvg-id="(no tvg-id)" group-title="Kurdish Channels",Slemany RT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/33828
+#EXTINF:0 CUID="237" tvg-name="SORAN ENTERTAINMENT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/ransentertainment.png" group-title="Kurdish Channels",SORAN ENTERTAINMENT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/44816
+#EXTINF:0 CUID="238" tvg-name="SOZ TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",SOZ TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28830
+#EXTINF:0 CUID="239" tvg-name="SPEDA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/spedatv.png" group-title="Kurdish Channels",SPEDA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28774
+#EXTINF:0 CUID="240" tvg-name="SPEDA DRAMA" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/spedadrama.png" group-title="Kurdish Channels",SPEDA DRAMA
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1428
+#EXTINF:0 CUID="241" tvg-name="SPI KIDS" tvg-id="(no tvg-id)" group-title="Kurdish Channels",SPI KIDS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/57102
+#EXTINF:0 CUID="242" tvg-name="SPI QURAN" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/quran.png" group-title="Kurdish Channels",SPI QURAN
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/52021
+#EXTINF:0 CUID="243" tvg-name="SPI TV ۞" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/hpitv.png" group-title="Kurdish Channels",SPI TV ۞
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/33026
+#EXTINF:0 CUID="244" tvg-name="SRUSHT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/srusht.png" group-title="Kurdish Channels",SRUSHT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1419
+#EXTINF:0 CUID="245" tvg-name="STERK TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/sterktv.png" group-title="Kurdish Channels",STERK TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28776
+#EXTINF:0 CUID="246" tvg-name="TASAWF" tvg-id="(no tvg-id)" group-title="Kurdish Channels",TASAWF
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28816
+#EXTINF:0 CUID="247" tvg-name="TRT KURDI" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/trtkurdi.png" group-title="Kurdish Channels",TRT KURDI
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28843
+#EXTINF:0 CUID="248" tvg-name="U2" tvg-id="(no tvg-id)" group-title="Kurdish Channels",U2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32886
+#EXTINF:0 CUID="249" tvg-name="UTV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/utv.png" group-title="Kurdish Channels",UTV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/9799
+#EXTINF:0 CUID="250" tvg-name="UTV HAWLER" tvg-id="(no tvg-id)" group-title="Kurdish Channels",UTV HAWLER
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32885
+#EXTINF:0 CUID="251" tvg-name="WALLA TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/7alatv.png" group-title="Kurdish Channels",WALLA TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/34795
+#EXTINF:0 CUID="252" tvg-name="Welat  TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",Welat  TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28826
+#EXTINF:0 CUID="253" tvg-name="YARAN HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/baran.png" group-title="Kurdish Channels",YARAN HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1418
+#EXTINF:0 CUID="254" tvg-name="ZAGROS TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/zagrostv.png" group-title="Kurdish Channels",ZAGROS TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28773
+#EXTINF:0 CUID="255" tvg-name="ZARO KIDS" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ZARO KIDS
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28778
+#EXTINF:0 CUID="256" tvg-name="ZED" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/zed.png" group-title="Kurdish Channels",ZED
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/52447
+#EXTINF:0 CUID="257" tvg-name="ZED+" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/zed.png" group-title="Kurdish Channels",ZED+
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1433
+#EXTINF:0 CUID="258" tvg-name="ZEVER" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/sever.png" group-title="Kurdish Channels",ZEVER
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32705
+#EXTINF:0 CUID="259" tvg-name="ZHYAR TV" tvg-id="(no tvg-id)" group-title="Kurdish Channels",ZHYAR TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1399
+#EXTINF:0 CUID="260" tvg-name="ZNAR TV" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/znartv.png" group-title="Kurdish Channels",ZNAR TV
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1416
+#EXTINF:0 CUID="261" tvg-name="4Sport" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/m4sport.png" group-title="Kurdish Sport Channels",4Sport
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28827
+#EXTINF:0 CUID="262" tvg-name="ARO SPORT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-title="Kurdish Sport Channels",ARO SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32782
+#EXTINF:0 CUID="263" tvg-name="ASTERA SPORT1" tvg-id="(no tvg-id)" group-title="Kurdish Sport Channels",ASTERA SPORT1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1373
+#EXTINF:0 CUID="264" tvg-name="AVA SPORT FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/tvasport.png" group-title="Kurdish Sport Channels",AVA SPORT FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70838
+#EXTINF:0 CUID="265" tvg-name="AVA SPORT SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/tvasport.png" group-title="Kurdish Sport Channels",AVA SPORT SD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/56012
+#EXTINF:0 CUID="266" tvg-name="LD SPORT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/dsport.png" group-title="Kurdish Sport Channels",LD SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/32706
+#EXTINF:0 CUID="267" tvg-name="LD SPORT CHECK" tvg-id="(no tvg-id)" group-title="Kurdish Sport Channels",LD SPORT CHECK
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/35306
+#EXTINF:0 CUID="268" tvg-name="MTV SPORT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/mtvsport1.png" group-title="Kurdish Sport Channels",MTV SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/45479
+#EXTINF:0 CUID="269" tvg-name="NEWLINE SPORT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/newline.png" group-title="Kurdish Sport Channels",NEWLINE SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/28820
+#EXTINF:0 CUID="270" tvg-name="NRT SPORT FHD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/trtsport.png" group-title="Kurdish Sport Channels",NRT SPORT FHD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70836
+#EXTINF:0 CUID="271" tvg-name="NRT SPORT HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/trtsport.png" group-title="Kurdish Sport Channels",NRT SPORT HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/70837
+#EXTINF:0 CUID="272" tvg-name="NRT SPORT HD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/trtsport.png" group-title="Kurdish Sport Channels",NRT SPORT HD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1393
+#EXTINF:0 CUID="273" tvg-name="NRT SPORT SD" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/trtsport.png" group-title="Kurdish Sport Channels",NRT SPORT SD
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/56043
+#EXTINF:0 CUID="274" tvg-name="SEE SPORT1" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/esport1.png" group-title="Kurdish Sport Channels",SEE SPORT1
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1404
+#EXTINF:0 CUID="275" tvg-name="SEE SPORT2" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/esport.png" group-title="Kurdish Sport Channels",SEE SPORT2
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1401
+#EXTINF:0 CUID="276" tvg-name="SEE SPORT3" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/esport3.png" group-title="Kurdish Sport Channels",SEE SPORT3
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/46231
+#EXTINF:0 CUID="277" tvg-name="SIMA SPORT" tvg-id="(no tvg-id)" tvg-logo="https://logo.m3uassets.com/primasport.png" group-title="Kurdish Sport Channels",SIMA SPORT
+http://myrestreamer.com:8080/fkuJq0frKjddi0/5VQfIXSu9qbrAA/1400
