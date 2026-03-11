@@ -1,0 +1,74 @@
+#EXTM3U  
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
+http://blue4k.net:8880//722579211577/288421880121/567229
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1012.m3u8
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1010.m3u8
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها له كوردستان)" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها له كوردستان)
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1011.m3u8
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها ئە وروپا )" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها ئە وروپا)
+http://109.71.252.138/Ava8kyusf/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="58812" tvg-name="BEIN UHD " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1731607129.png" group-title="Kurdish  سپۆرت  ",BEIN UHD
+http://blue4k.net:8880//722579211577/288421880121/506104
+#EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
+http://blue4k.net:8880//722579211577/288421880121/567146
+#EXTINF:0 CUID="58809" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-1.png" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
+http://blue4k.net:8880//722579211577/288421880121/567191
+#EXTINF:0 CUID="58813" tvg-name="LD SPORT CHECK" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT 
+http://blue4k.net:8880//722579211577/288421880121/567150
+#EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
+http://blue4k.net:8880//722579211577/288421880121/567151
+#EXTINF:0 CUID="58870" tvg-name="ROJAVA" tvg-logo="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2ZXl4bWprbjhpMjRwMm9zdTIya3JjaDV5OXByd2FpZTczYmIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zOa92AFoytUGJpgAa/giphy.gif" group-title="ALWAN  SPORT 4k",ROJAVA
+https://rashaba.com/upload2/videos/2026/01/qeUNPMmCvrYcqe6/qeUNPMmCvrYcqe6_av1.m3u8
+#EXTINF:0 CUID="58871" tvg-name="ALWAN WWE 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN WWE 4K
+http://blue4k.net:8880//722579211577/288421880121/550435
+#EXTINF:0 CUID="58872" tvg-name="ALWAN UFC 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN UFC 4K
+http://blue4k.net:8880//722579211577/288421880121/550421
+#EXTINF:0 CUID="58873" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
+http://blue4k.net:8880//722579211577/288421880121/550424
+#EXTINF:0 CUID="58874" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
+http://blue4k.net:8880//722579211577/288421880121/550425
+#EXTINF:0 CUID="58875" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
+http://blue4k.net:8880//722579211577/288421880121/550426
+#EXTINF:0 CUID="58876" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
+http://blue4k.net:8880//722579211577/288421880121/550427
+#EXTINF:0 CUID="58877" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
+http://blue4k.net:8880//722579211577/288421880121/550428
+#EXTINF:0 CUID="58878" tvg-name="ALWAN SPORT 6 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 4K
+http://blue4k.net:8880//722579211577/288421880121/550429
+#EXTINF:0 CUID="58879" tvg-name="ALWAN SPORT 7 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 7 4K
+http://blue4k.net:8880//722579211577/288421880121/550430
+#EXTINF:0 CUID="58880" tvg-name="ALWAN SPORT 8 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 8 4K
+http://blue4k.net:8880//722579211577/288421880121/550431
+#EXTINF:0 CUID="58881" tvg-name="ALWAN SPORT 9 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 9 4K
+http://blue4k.net:8880//722579211577/288421880121/550432
+#EXTINF:0 CUID="58882" tvg-name="ALWAN SPORT 10 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 10 4K
+http://blue4k.net:8880//722579211577/288421880121/550433
+#EXTINF:0 CUID="58883" tvg-name="[KSA] KSA Alwan Sport 1" tvg-logo="http://pic.apkdt.co/pic/mix2/EuroSport1.png" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 1
+http://blue4k.net:8880//722579211577/288421880121/542659
+#EXTINF:0 CUID="58884" tvg-name="[KSA] KSA Alwan Sport 2" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 2
+http://blue4k.net:8880//722579211577/288421880121/542660
+#EXTINF:0 CUID="58885" tvg-name="[KSA] KSA Alwan sport 3" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan sport 3
+http://blue4k.net:8880//722579211577/288421880121/542661
+#EXTINF:0 CUID="58886" tvg-name="[KSA] KSA Alwan sport 4" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan sport 4
+http://blue4k.net:8880//722579211577/288421880121/542662
+#EXTINF:0 CUID="58887" tvg-name="[KSA] KSA Alwan Sport 5" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 5
+http://blue4k.net:8880//722579211577/288421880121/542663
+#EXTINF:0 CUID="58888" tvg-name="[KSA] KSA Alwan Sport 6" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 6
+http://blue4k.net:8880//722579211577/288421880121/542664
+#EXTINF:0 CUID="58889" tvg-name="Alwan Sport 1" group-title="ALWAN  SPORT 4k",Alwan Sport 1
+http://blue4k.net:8880//722579211577/288421880121/550452
+#EXTINF:0 CUID="58890" tvg-name="Alwan Sport 2" group-title="ALWAN  SPORT 4k",Alwan Sport 2
+http://blue4k.net:8880//722579211577/288421880121/550451
+#EXTINF:0 CUID="58891" tvg-name="Alwan sport 3" group-title="ALWAN  SPORT 4k",Alwan sport 3
+http://blue4k.net:8880//722579211577/288421880121/550436
+#EXTINF:0 CUID="58892" tvg-name="Alwan sport 4" group-title="ALWAN  SPORT 4k",Alwan sport 4
+http://blue4k.net:8880//722579211577/288421880121/550450
+#EXTINF:0 CUID="58893" tvg-name="Alwan Sport 5" group-title="ALWAN  SPORT 4k",Alwan Sport 5
+http://blue4k.net:8880//722579211577/288421880121/550422
+#EXTINF:0 CUID="58894" tvg-name="Alwan Sport 6" group-title="ALWAN  SPORT 4k",Alwan Sport 6
+http://blue4k.net:8880//722579211577/288421880121/550423
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
